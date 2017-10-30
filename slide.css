@@ -320,18 +320,16 @@ p.footer{
   color: gray;
 }
 
-form{
+form {
   text-align: center;
-
 }
 
-.caption{
+.caption {
   display: block;
   text-align: center;
   color: gray;
   font-size:0.75em;
 }
-
 .header {
   display:block;
   text-align: left;
