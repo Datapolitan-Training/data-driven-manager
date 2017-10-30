@@ -279,6 +279,12 @@ pre {
     background-color: transparent;
     border: none; }
 
+div.footer {
+  width:100%;
+  position:fixed;
+  bottom:0px;  
+}
+
 p.footer{
   position:fixed;
   left:10px;
@@ -324,4 +330,24 @@ form{
   text-align: center;
   color: gray;
   font-size:0.75em;
+}
+
+.header {
+  display:block;
+  text-align: left;
+  color:gray;
+  font-size:1em;
+  position: fixed;
+  top: 0px;
+  left: 80px;
+  height: 30px;
+  margin:5px 0 0 0;
+  width:100%;
+}
+
+.header-image {
+  position: fixed;
+  top: 5px;
+  left: 5px;
+  width: 10%;
 }
