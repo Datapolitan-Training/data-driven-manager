@@ -57,28 +57,28 @@ Students will be able to:
     + Outcome: Class participants are practiced in describing their analysis and communicating their work
 
 ### Day 2
-Welcome (5)
++ Welcome (5)
     + Activity: Instructors welcome participants to the class
     + Outcome: Class participants are settled and engaged
-Gallery of Possibilities (5 mins)
++ Gallery of Possibilities (5 mins)
     + Activity: Instructors introduce key examples of civic analytics and open data projects to participants
     + Outcome: Class participants are familiar with interesting and impactful projects with city data
-Open Data Exercise (20 mins)
++ Open Data Exercise (20 mins)
     + Activity: Facilitators describe key features of open data and lead participants through downloading data from the Open Data Portal
     + Outcome: Class participants are familiar with the open data portal and have downloaded data for exercise
-Data Skills Training (90 mins)
++ Data Skills Training (90 mins)
     + Activity: Facilitators lead participants through steps to analyze downloaded data
     + Outcome: Class participants are familiar with basic techniques of data analysis with Excel
-Process Map in Action (45 mins)
++ Process Map in Action (45 mins)
     + Activity:Facilitators help participants follow the analytics process they've mapped out to answer the challenge scoped in class
     + Outcome: Class participants are practiced in executing the process map they've created
-Project Work (45 mins)
++ Project Work (45 mins)
     + Activity:Facilitators help participants follow the analytics process they've mapped out in their groups to answer the challenge they scoped
     + Outcome: Class participants are practiced in executing the process map they've created to accomplish an analytical task
-Presentations (45 mins)
++ Presentations (45 mins)
     + Activity: Participants present their work to the class
     + Outcome: Class participants are practiced in describing their analysis and communicating their findings
-Data Driven Government (30 mins)
++ Data Driven Government (30 mins)
     + Activity: Facilitators present the key features of building a data-driven culture in government and lead a discussion with the group
     + Outcome: Class participants are familiar with the key aspects of building a data-driven culture within their organizations
 
