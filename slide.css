@@ -349,3 +349,9 @@ form {
   left: 5px;
   width: 10%;
 }
+
+.remark-slide-number {
+  font-size:0.75em;
+  bottom:5px;
+  right:10px;
+}
