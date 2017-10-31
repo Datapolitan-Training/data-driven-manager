@@ -57,10 +57,10 @@ Students will be able to:
     + Outcome: Class participants are practiced in describing their analysis and communicating their work
 
 ### Day 2
-+ Welcome (5)
++ Welcome (5 mins)
     + Activity: Instructors welcome participants to the class
     + Outcome: Class participants are settled and engaged
-+ Gallery of Possibilities (5 mins)
++ Gallery of Possibilities (15 mins)
     + Activity: Instructors introduce key examples of civic analytics and open data projects to participants
     + Outcome: Class participants are familiar with interesting and impactful projects with city data
 + Open Data Exercise (20 mins)
